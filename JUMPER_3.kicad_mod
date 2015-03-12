@@ -1,8 +1,8 @@
-(module JUMPER_3 (layer F.Cu) (tedit 5501E422)
-  (fp_text reference REF** (at 0 2.286) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.15)))
+(module JUMPER_3 (layer F.Cu) (tedit 5501EB5C)
+  (fp_text reference REF** (at 0 2.032) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value "3-Way Jumper" (at 0 -2.54) (layer F.Fab)
+  (fp_text value ~ (at 0 -2.286) (layer F.Fab) hide
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_line (start -1.778 1.016) (end 1.778 1.016) (layer F.SilkS) (width 0.15))
