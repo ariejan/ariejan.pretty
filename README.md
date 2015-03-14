@@ -7,6 +7,7 @@ check sizes and dimensions before sending your boards to a manufactuerer.
 ## Footprints
 
  * `JUMPER_3` - 3-Way SMD solder jumper
+ * `POT_CTS_296` - CTS 296-series PCB mounted potentiometer
 
 ## License
 
