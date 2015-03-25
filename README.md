@@ -8,6 +8,7 @@ check sizes and dimensions before sending your boards to a manufactuerer.
 
  * `JUMPER_3` - 3-Way SMD solder jumper
  * `POT_CTS_296` - CTS 296-series PCB mounted potentiometer
+ * `TRIMMER-TC33X-2` - TC33X-2 SMD trimmer
 
 ## License
 
